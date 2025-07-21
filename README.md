@@ -1,4 +1,3 @@
-# Tic-Tac-Toe-2-players
 
 # 🎮 Tic-Tac-Toe Web Game (1st Semester Work)
 
