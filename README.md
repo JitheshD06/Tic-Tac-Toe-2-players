@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-2-players
 
-# 🎮 Tic-Tac-Toe Web Game
+# 🎮 Tic-Tac-Toe Web Game (1st Semester Work)
 
 A classic 2-player Tic-Tac-Toe (X-O) game built using **HTML**, **CSS**, and **JavaScript**. This project runs entirely in the browser with a simple and clean UI.
 
